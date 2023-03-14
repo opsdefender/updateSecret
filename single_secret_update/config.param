@@ -1,0 +1,16 @@
+[KEYVAULT]
+# URL of the Azure Key Vault instance
+vault_url=KeyVaultURL
+
+# Azure AD Configuration
+tenant_id=
+client_id=
+client_secret=
+
+# Secret you would like to update
+azure_secret_name=
+
+#DELINEA SITE INFORMATION
+delinea_site=http://domain.com/SecretServer
+token=InputToken
+delinea_secret_ID_to_change=Secret_ID
